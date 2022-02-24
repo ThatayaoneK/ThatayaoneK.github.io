@@ -2358,7 +2358,7 @@ input, select, textarea {
 	
 				background-size: cover;
 				background-position:center center;
-				background: url(./images/thumbs/01.png);
+				background-image: url(/images/thumbs/06.png);
 	
 				-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
 					transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
