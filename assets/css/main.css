@@ -2358,7 +2358,7 @@ input, select, textarea {
 	
 				background-size: cover;
 				background-position:center center;
-				background: url(./images/fulls/01.png);
+				background: url(./images/thumbs/01.png);
 	
 				-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
 					transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
@@ -2505,7 +2505,7 @@ input, select, textarea {
 				top:0;
 			}
 			.align-center{
-				
+				margin:0 auto;
 			}
 			.kallyas-button{
 				display:block;
